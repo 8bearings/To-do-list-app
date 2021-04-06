@@ -15,4 +15,4 @@ Tech used: HTML, JavaScript, Node.js, Express, MongoDB
 
 
 Lessons Learned:
-A lot can be done with a "Put" and some "EJS" !!
+A lot can be done with a "put" and some "EJS" !!
