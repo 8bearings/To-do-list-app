@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(132, 255, 132);
+}
+h1{
+    font-size: 4em;
+    color: rgb(68, 0, 255);
+}
+
+.completed{
+    text-decoration: line-through;
+    color: lightgray;
+}
+.del{
+    color: red;
+    font-size: .8em;
+}
